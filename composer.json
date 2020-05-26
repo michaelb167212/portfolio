@@ -1,5 +1,5 @@
 {
-    "name": "vendor/name",
+    "name": "mbarreto/json",
     "description": "web portfolio",
     "authors": [
         {
@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "vendor/package": "1.*"
+        "monolog/monolog": "1.*"
     }
 }
