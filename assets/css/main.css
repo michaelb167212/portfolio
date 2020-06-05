@@ -2063,11 +2063,11 @@ input[type="radio"] + label:before {
 			width: 100%;
 		}
 
-		.image.thumb {
+		.image.thumbx {
 			text-align: center;
 		}
 
-			.image.thumb:after {
+			.image.thumbx:after {
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
@@ -2092,12 +2092,12 @@ input[type="radio"] + label:before {
 				white-space: nowrap;
 			}
 
-			.image.thumb:hover:after {
+			.image.thumbx:hover:after {
 				opacity: 1.0;
 			}
 
-			.image.thumb:hover:before {
-				/*background: url("images/overlay.png"), url("images/overlay.png");*/
+			.image.thumbx:hover:before {
+				background: url("images/overlay.png"), url("images/overlay.png");
 				opacity: 1.0;
 			}
 
