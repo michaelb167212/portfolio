@@ -2705,7 +2705,7 @@ input[type="radio"] + label:before {
 			}
 
 /* Poptrox */
-
+/*
 	@-moz-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
@@ -2769,6 +2769,7 @@ input[type="radio"] + label:before {
 			transform: rotate(360deg);
 		}
 	}
+	*/
 /*
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
