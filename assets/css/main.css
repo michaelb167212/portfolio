@@ -2067,7 +2067,7 @@ input[type="radio"] + label:before {
 			text-align: center;
 		}
 
-			.image.thumbx:after {
+			.image.thumb:after {
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
@@ -2092,11 +2092,11 @@ input[type="radio"] + label:before {
 				white-space: nowrap;
 			}
 
-			.image.thumbx:hover:after {
+			.image.thumb:hover:after {
 				opacity: 1.0;
 			}
 
-			.image.thumbx:hover:before {
+			.image.thumb:hover:before {
 				background: url("images/overlay.png"), url("images/overlay.png");
 				opacity: 1.0;
 			}
@@ -2769,7 +2769,7 @@ input[type="radio"] + label:before {
 			transform: rotate(360deg);
 		}
 	}
-
+/*
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
@@ -2960,7 +2960,7 @@ input[type="radio"] + label:before {
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
 			}
-
+*/
 /* Touch */
 
 	body.is-touch .image.thumb:before {
